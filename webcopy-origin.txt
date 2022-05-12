@@ -1,0 +1,200 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62432a5edd5f550ee572cdfd
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://online-storeyy0.webflow.io/
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/62432c8b2f83f10e9591709e_1611742283_47-p-fon-dlya-yuvelirnikh-izdelii-60-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\62432c8b2f83f10e9591709e_1611742283_47-p-fon-dlya-yuvelirnikh-izdelii-60-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/62432c8b2f83f10e9591709e_1611742283_47-p-fon-dlya-yuvelirnikh-izdelii-60-p-800.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\62432c8b2f83f10e9591709e_1611742283_47-p-fon-dlya-yuvelirnikh-izdelii-60-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/62432c8b2f83f10e9591709e_1611742283_47-p-fon-dlya-yuvelirnikh-izdelii-60.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\62432c8b2f83f10e9591709e_1611742283_47-p-fon-dlya-yuvelirnikh-izdelii-60.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/62432ce71e08581fd6e1b0f6_Background.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\62432ce71e08581fd6e1b0f6_Background.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/624332d914dc9b97d71a3cb3_soc_4.png
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\624332d914dc9b97d71a3cb3_soc_4.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/624332d9ecb8a07c800a4a93_soc_5.png
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\624332d9ecb8a07c800a4a93_soc_5.png
+Content Type: image/png
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/62433e1b861149cf25dc692a_pexels-photo-265906.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\62433e1b861149cf25dc692a_pexels-photo-265906.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/62433e4cc76e717ef89de0d9_pexels-photo-227574.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\62433e4cc76e717ef89de0d9_pexels-photo-227574.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/6243450ed8bcfbefe1941b92_work_6-p-500.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\6243450ed8bcfbefe1941b92_work_6-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/6243450ed8bcfbefe1941b92_work_6-p-800.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\6243450ed8bcfbefe1941b92_work_6-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/6243450ed8bcfbefe1941b92_work_6.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\6243450ed8bcfbefe1941b92_work_6.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-2600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-2600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-3200.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-3200.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-500.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-800.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2bcafc749ad6490f4448_pexels-lalesh-aldarwish-168927.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-2600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-2600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-3200.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-3200.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-500.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-800.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1be8ecf5a0f952b14d_pexels-daria-bondarskaya-5784458.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-2600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-2600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-3200.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-3200.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-500.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-800.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1)-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1).jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c1f78cd0109416cdf1f_pexels-fox-998521 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-2600.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-2600.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-3200.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-3200.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-500.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-800.jpeg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195.jpg
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\627d2c2348f5fab353fbc84a_pexels-glauber-torquato-2219195.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/css/online-storeyy0.webflow.13236b2c6.css
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\css\online-storeyy0.webflow.13236b2c6.css
+Content Type: text/css
+
+Uri: https://uploads-ssl.webflow.com/62432a5edd5f550ee572cdfd/js/webflow.7f033afae.js
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\62432a5edd5f550ee572cdfd\js\webflow.7f033afae.js
+Content Type: text/javascript
+
+Uri: https://uploads-ssl.webflow.com/img/favicon.ico
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://uploads-ssl.webflow.com/img/webclip.png
+File Name: C:\Downloaded Web Sites\online-storeyy0.webflow.io\img\webclip.png
+Content Type: image/png
+
